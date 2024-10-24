@@ -1,6 +1,6 @@
-# GitHub Statistics
+# Hello Everyone
 
-Welcome to my GitHub profile! Below you can find some of my GitHub statistics, including repositories, contributions, and language usage. I am continuously working on projects that improve my skills and contribute to the community.
+Welcome to my GitHub profile! I'm Raka Satya Prasasta undergraduate student at Ahmad Dahlan University. I'm a passionate Full-Stack Developer and Cloud Engineer.
 
 ## 🛠️ Tech Stack
 Here are some technologies and tools I use:
