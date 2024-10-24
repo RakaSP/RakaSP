@@ -1,16 +1,22 @@
-## Hi there 👋
+# GitHub Statistics
 
-<!--
-**RakaSP/RakaSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Below you can find some of my GitHub statistics, including repositories, contributions, and language usage. I am continuously working on projects that improve my skills and contribute to the community.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Here are some technologies and tools I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks**: React.js, Node.js, Express.js, Tailwind CSS
+- **Databases**: MongoDB, MySQL
+- **Cloud**: Google Cloud, GKE
+- **Version Control**: Git & GitHub
+
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakaSP&layout=compact&theme=radical)
+
+
+## 🤝 Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/raka-prasasta/)
+- [Portfolio](https://rakaprasasta.vercel.app/)
