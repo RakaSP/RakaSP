@@ -18,4 +18,3 @@ Here are some technologies and tools I use:
 ## 🤝 Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/raka-prasasta/)
-- [Portfolio](https://rakaprasasta.vercel.app/)
