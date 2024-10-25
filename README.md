@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Raka Satya Prasasta undergraduate student at A
 Here are some technologies and tools I use:
 
 - **Languages**: JavaScript, PHP
-- **Frameworks**: React.js, Node.js, Express.js, Tailwind CSS, Laravel
+- **Frameworks**: React.js, Express.js, HAPI, Laravel, Tailwind CSS
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Cloud**: Google Cloud Platform, Amazon Web Services
 
